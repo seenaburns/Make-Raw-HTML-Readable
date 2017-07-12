@@ -1,5 +1,7 @@
 # Make Raw HTML Readable
 
+![make-raw-html-readable](https://user-images.githubusercontent.com/2801344/28102843-d3075888-6686-11e7-92c7-ec642c99322c.jpg)
+
 Chrome extension that makes unstyled HTML readable.
 
 By default centers, limits width, and adds some padding, but you can easily modify it.
